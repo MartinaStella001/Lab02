@@ -18,6 +18,7 @@ yhdeksän nove
 kymmenen dieci
 punainen rosso
 inen blu
+iten glicine
 vihreä verde
 keltainen giallo
 musta nero
